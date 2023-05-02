@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/jni" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jni/src/github.com/ClarkGuan/includejni" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/gitee.com/aifuturewell/gojni" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/ClarkGuan/includejni" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/ClarkGuan/jni" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/shangzebei/gojni" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/gopkg.in/gomail.v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/tekao.net/jnigi" vcs="Git" />
+  </component>
+</project>
